@@ -1,0 +1,1 @@
+{"description":"Sum up Sunday 22 November 2026's world news in one image — 42 stories, 7 regions","engines":{"node":">=22"},"name":"news-image-20261122-v4","private":true,"scripts":{"draw":"python3 draw_news22_v4.py","start":"node main.ts"},"type":"module","version":"1.0.0"}
